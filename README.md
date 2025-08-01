@@ -1,2 +1,1 @@
-# Scientific-Literature-Mining
-Official repository for project 
+# Arxiv Based Paper Extraction and QA LLM system
