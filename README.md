@@ -1,2 +1,1 @@
-# Scientific-Literature-Mining
-Official repository for project 
+# Knowledge Graph Inclusion for Better Context
