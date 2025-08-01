@@ -1,2 +1,1 @@
-# Scientific-Literature-Mining
-Official repository for project 
+# Unsupervised Learning Methods for Identifying Research Trends
