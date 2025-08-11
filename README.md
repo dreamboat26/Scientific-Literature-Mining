@@ -76,7 +76,7 @@ cd -
 
 - Unsupervised Learning Method for Research Trends - Snehal Rakshit, Varun Ramanathan Alagappan, [Names]
 - Knowledge Graphs & Evaluation - [Name] 
-- Prompting Technqiues for context - Rahul Jaisy, [Names]
+- Prompting Techniques for context - Rahul Jaisy, Eishaan Khatri, [Names]
 - Arxiv Literature Papers Extraction & QA system - [Names]
 - Domain Experimentation Team - [Names] , Theo Fraser 
 
