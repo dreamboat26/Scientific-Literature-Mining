@@ -78,7 +78,7 @@ cd -
 - Knowledge Graphs & Evaluation - [Name] 
 - Prompting Technqiues for context - Rahul Jaisy, [Names]
 - Arxiv Literature Papers Extraction & QA system - [Names]
-- Domain Experimentation Team - [Names]  
+- Domain Experimentation Team - [Names] , Theo Fraser 
 
 ---
 
