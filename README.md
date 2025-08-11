@@ -74,7 +74,7 @@ cd -
 
 ## Contributors
 
-- Unsupervised Learning Method for Research Trends - Snehal Rakshit, [Names]
+- Unsupervised Learning Method for Research Trends - Snehal Rakshit, Varun Ramanathan Alagappan, [Names]
 - Knowledge Graphs & Evaluation - [Name] 
 - Prompting Technqiues for context - Rahul Jaisy, [Names]
 - Arxiv Literature Papers Extraction & QA system - [Names]
