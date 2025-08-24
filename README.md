@@ -78,7 +78,7 @@ cd -
 - Knowledge Graphs & Evaluation - [Name] 
 - Prompting Techniques for context - Rahul Jaisy, Eishaan Khatri, [Names]
 - Arxiv Literature Papers Extraction & QA system - Shinjini Mondal, Archishman Banerjee. [Names]
-- Domain Experimentation Team - [Names] , Theo Fraser, Gayathri Aishwarya E, 
+- Domain Experimentation Team - Theo Fraser, Gayathri Aishwarya E, Nanditha Immidi, [Names]
 
 ---
 
