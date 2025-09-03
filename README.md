@@ -43,11 +43,6 @@ This project explores the intersection of **Unsupervised Learning**, **Large Lan
 
 ---
 
-## Tech Stack
-
-
----
-
 ## Experiments
 
 | Experiment | Domain          | Goal                                | Outcome                              |
@@ -67,18 +62,17 @@ This project explores the intersection of **Unsupervised Learning**, **Large Lan
 1. **Clone the repo**
 ```bash
 git clone https://github.com/dreamboat26/Scientific-Literature-Mining.git
-cd -
 ```
 
 ---
 
 ## Contributors
 
-- Unsupervised Learning Method for Research Trends - Snehal Rakshit, Varun Ramanathan Alagappan, Vedant Vijay Patil. [Names]
-- Knowledge Graphs & Evaluation - [Name] 
-- Prompting Techniques for context - Rahul Jaisy, Eishaan Khatri, [Names]
-- Arxiv Literature Papers Extraction & QA system - Shinjini Mondal, Archishman Banerjee. [Names]
-- Domain Experimentation Team - Theo Fraser, Gayathri Aishwarya E, Nanditha Immidi, [Names]
+- Unsupervised Learning Method for Research Trends - Snehal Rakshit, Varun Ramanathan Alagappan, and Vedant Vijay Patil
+- Knowledge Graphs & Evaluation - Oviya 
+- Prompting Techniques for context - Rahul Jaisy, Eishaan Khatri, and Yashika Sharma
+- Arxiv Literature Papers Extraction & QA system - Shinjini Mondal, and Archishman Banerjee
+- Domain Experimentation Team - Theo Fraser, Gayathri Aishwarya E, Nanditha Immidi, Akash Kanji, and Emanuel Espinoza
 
 ---
 
