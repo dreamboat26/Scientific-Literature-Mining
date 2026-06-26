@@ -71,7 +71,7 @@ git clone https://github.com/dreamboat26/Scientific-Literature-Mining.git
 - Unsupervised Learning Method for Research Trends - Snehal Rakshit, Varun Ramanathan Alagappan, and Vedant Vijay Patil
 - Knowledge Graphs & Evaluation - Oviya 
 - Prompting Techniques for context - Rahul Jaisy, Eishaan Khatri, and Yashika Sharma
-- Arxiv Literature Papers Extraction & QA system - Shinjini Mondal, and Archishman Banerjee
+- Arxiv Literature Papers Extraction & QA system - Archishman Banerjee
 - Domain Experimentation Team - Theo Fraser, Gayathri Aishwarya E, Nanditha Immidi, Akash Kanji, and Emanuel Espinoza
 
 ---
